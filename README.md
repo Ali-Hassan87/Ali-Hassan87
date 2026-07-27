@@ -2,7 +2,7 @@
 
 <!-- Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+a+Full+Stack+Developer;Figma+Template+Designer;C%2B%2B+%7C+Java+%7C+Kotlin+Developer;MongoDB+Database+Architect;Prompt+Engineer;Android+App+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&duration=3000&pause=800&color=00D4FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B%2C+I'm+Ali+Hassan;I'm+a+Full+Stack+Developer;Figma+Template+Designer;C%2B%2B+%7C+Java+%7C+Kotlin+Developer;MongoDB+Database+Architect;Prompt+Engineer;Android+App+Developer" alt="Typing SVG" />
 </a>
 
 <!-- Animated Wave Banner -->
@@ -94,16 +94,17 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" height="180" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Ali-Hassan87&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&icon_color=00D4FF&text_color=c9d1d9" height="180"/>
+
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Ali-Hassan87&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00D4FF&text_color=c9d1d9" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="80%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ali-Hassan87&theme=tokyonight&hide_border=true&background=0d1117&stroke=00D4FF&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF" width="80%"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&bg_color=0d1117&color=00D4FF&line=0099CC&point=FF6B6B&area=true&hide_border=true" width="95%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan87&bg_color=0d1117&color=00D4FF&line=0099CC&point=FF6B6B&area=true&hide_border=true" width="95%"/>
 </p>
 
 </div>
@@ -115,7 +116,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Ali-Hassan87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%" />
 </p>
 
 </div>
@@ -213,9 +214,9 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake.svg" />
 </picture>
 
 </div>
@@ -229,10 +230,8 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<img src="https://komarev.com/ghpvc/?username=Ali-Hassan87&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
 
 </div>
 
 ---
-
-> 💡 **Pro Tip:** Replace all `YOUR_USERNAME` placeholders with your actual GitHub username, and update the social links with your real profiles to make this README fully functional!
