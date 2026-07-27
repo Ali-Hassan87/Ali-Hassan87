@@ -1,178 +1,265 @@
-<div align="center">
 
-# Hi 👋, I'm Ali Hassan
 
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1000&color=0EA5E9&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Android+Developer;C%2B%2B+%26+OOP+Programmer;MongoDB+Database+Developer;Figma+UI%2FUX+Designer;Prompt+Engineer" alt="Typing SVG" />
+&nbsp;
 
-### 🚀 Building Modern Applications with Clean Design & Efficient Code
+&nbsp;
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+# Hey there, I'm Ali Hassan
 
-</div>
+
 
 ---
 
-# 💫 About Me
+## 🚀 About Me
 
-I'm a passionate **Full Stack Developer** who enjoys building modern applications with attractive UI, clean architecture, and scalable solutions.
+🌟 **Full Stack Developer** | **Figma Designer** | **C++ Developer** | **Prompt Engineer** | **Android Developer**
 
-I love transforming ideas into real-world products by combining development, UI/UX design, and problem-solving.
+I'm a versatile developer who builds efficient, scalable solutions with clean code and modern design principles. With expertise in both frontend and backend development, I bridge the gap between design and functionality.
 
-### What I Do
-
-- 💻 Full Stack Web Development
-- 📱 Android Application Development
-- 🎨 Figma UI/UX Design
-- 🗄️ MongoDB Database Design
-- ⚡ C++ Programming & Object Oriented Programming
-- 🤖 Prompt Engineering
-- 🚀 REST API Integration
-- 🎯 Performance Optimization
+- 🌍 Based in Pakistan (Asia/Karachi)
+- 💼 Open to freelance opportunities and collaborations
+- 🎯 Building innovative digital experiences
+- 📚 Continuous learner exploring new technologies
+- ✨ Creating beautiful, functional applications
 
 ---
 
-# 🛠 Tech Stack
+## 🛠️ My Skills
 
-## Languages
+### 💻 Full Stack Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=cpp,java,kotlin,javascript,html,css"/>
-</p>
+**Frontend:**  
+HTML5  
+CSS3  
+JavaScript  
+TypeScript  
+React  
+Next.js  
+Tailwind CSS
 
----
+**Backend:**  
+Node.js  
+Express.js  
+Python  
+Django  
+Flask
 
-## Frontend
+### 📱 Mobile Development
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,javascript,react,tailwind"/>
-</p>
+Kotlin  
+Java  
+Android  
+Android Studio  
+Jetpack Compose
 
----
+### 🎨 Design &amp; UI/UX
 
-## Backend
+Figma  
+Adobe XD  
+UI/UX Design  
+Responsive Design
 
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-</p>
+### 🗄️ Databases
 
----
+MongoDB  
+MySQL  
+PostgreSQL  
+Firebase
 
-## Database
+### ⚙️ Programming Languages
 
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb"/>
-</p>
+C++  
+C  
+OOP  
+Data Structures  
+Algorithms
 
----
+### 🤖 AI &amp; Prompt Engineering
 
-## Mobile Development
+Prompt Engineering  
+LLMs  
+AI Tools
 
-<p>
-<img src="https://skillicons.dev/icons?i=androidstudio,kotlin"/>
-</p>
+### 🛠️ Tools &amp; Platforms
 
----
-
-## Design
-
-<p>
-<img src="https://skillicons.dev/icons?i=figma"/>
-</p>
-
----
-
-## Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,postman"/>
-</p>
-
----
-
-# 📊 GitHub Stats
-
-<p align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
-
-</p>
+Git  
+GitHub  
+Docker  
+Postman  
+VS Code  
+IntelliJ IDEA
 
 ---
 
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
+## 📊 GitHub Stats
 
 ---
 
-# 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=algolia&margin-w=10&margin-h=10&no-frame=true&column=4"/>
-
-</p>
+## 🏆 GitHub Trophies
 
 ---
 
-# 💼 Professional Skills
-
-| Skill | Level |
-|-------|-------|
-| Full Stack Development | ⭐⭐⭐⭐⭐ |
-| C++ Programming | ⭐⭐⭐⭐⭐ |
-| Object Oriented Programming | ⭐⭐⭐⭐⭐ |
-| MongoDB | ⭐⭐⭐⭐⭐ |
-| Java | ⭐⭐⭐⭐☆ |
-| Kotlin | ⭐⭐⭐⭐☆ |
-| Android Development | ⭐⭐⭐⭐☆ |
-| Figma UI Design | ⭐⭐⭐⭐☆ |
-| Prompt Engineering | ⭐⭐⭐⭐⭐ |
-| Git & GitHub | ⭐⭐⭐⭐☆ |
+## 🔥 Contribution Graph
 
 ---
 
-# 🚀 Current Focus
+## 🎯 My Expertise
 
-- Building Full Stack Applications
-- Modern Responsive UI
-- Android Apps
-- MongoDB Projects
-- Backend APIs
-- AI Prompt Engineering
+### Full Stack Development
+
+- ✅ **Frontend:** Responsive, accessible, performant web applications
+- ✅ **Backend:** Scalable APIs, microservices, serverless functions
+- ✅ **Database Design:** Optimized schemas, queries, data modeling
+- ✅ **Authentication:** JWT, OAuth, session management
+- ✅ **Deployment:** CI/CD pipelines, cloud hosting (AWS, Vercel, Netlify)
+
+### Figma Design
+
+- ✅ **UI Design:** Modern, clean, user-friendly interfaces
+- ✅ **Design Systems:** Consistent components, styles, design tokens
+- ✅ **Prototyping:** Interactive prototypes for user testing
+- ✅ **Collaboration:** Team workflows &amp; design handoff
+- ✅ **Templates:** Reusable design templates and kits
+
+### C++ Development
+
+- ✅ **OOP:** SOLID principles, design patterns
+- ✅ **Data Structures:** Arrays, Linked Lists, Trees, Graphs, Hash Tables
+- ✅ **Algorithms:** Sorting, Searching, Dynamic Programming, Greedy
+- ✅ **System Programming:** Memory management, pointers, file I/O
+- ✅ **STL:** Containers, Iterators, Algorithms, Function Objects
+
+### Android Development
+
+- ✅ **Kotlin:** Modern development with coroutines and Flow
+- ✅ **Java:** Legacy and modern Android development
+- ✅ **Jetpack Components:** ViewModel, LiveData, Room, Navigation
+- ✅ **UI Design:** Material Design, Jetpack Compose
+- ✅ **API Integration:** Retrofit, OkHttp, RESTful APIs
+- ✅ **Architecture:** MVVM, MVI, Clean Architecture
+
+### Prompt Engineering
+
+- ✅ **LLM Fine-tuning:** Custom model training and optimization
+- ✅ **Prompt Optimization:** Crafting effective prompts
+- ✅ **AI Integration:** Building AI-powered applications
+- ✅ **Chatbot Development:** Conversational AI systems
+- ✅ **Content Generation:** Automated content creation
 
 ---
 
-# 📫 Connect With Me
+## 📂 Featured Projects
 
-<p align="left">
+### 🌐 Web Development
 
-<a href="https://github.com/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
 
-<a href="https://www.linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
+| Project                 | Description                                     | Technologies                    | Demo                        |
+| ----------------------- | ----------------------------------------------- | ------------------------------- | --------------------------- |
+| **E-Commerce Platform** | Full-featured online store with admin dashboard | React, Node.js, MongoDB, Stripe | [Demo](https://example.com) |
+| **Social Media App**    | Real-time social networking platform            | Next.js, Firebase, Tailwind CSS | [Demo](https://example.com) |
+| **Portfolio Website**   | Professional portfolio with animations          | React, Three.js, Framer Motion  | [Demo](https://example.com) |
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
 
-</p>
+### 📱 Mobile Applications
+
+
+| Project              | Description                                 | Technologies                  | Download        |
+| -------------------- | ------------------------------------------- | ----------------------------- | --------------- |
+| **Task Manager**     | Productivity app with offline support       | Kotlin, Room, Jetpack Compose | [Play Store](#) |
+| **Weather App**      | Real-time weather with location services    | Java, Retrofit, MVVM          | [Play Store](#) |
+| **Chat Application** | Secure messaging with end-to-end encryption | Kotlin, Firebase, Coroutines  | [GitHub](#)     |
+
+
+### 🎨 Design Templates
+
+
+| Template                | Description                       | Tools           | Preview                   |
+| ----------------------- | --------------------------------- | --------------- | ------------------------- |
+| **Dashboard UI Kit**    | Complete admin dashboard template | Figma           | [View](https://figma.com) |
+| **E-Commerce Template** | Online store design system        | Figma, Adobe XD | [View](https://figma.com) |
+| **Mobile App UI**       | iOS and Android app templates     | Figma           | [View](https://figma.com) |
+
 
 ---
 
-<div align="center">
+## 🤝 Connect With Me
 
-### 💡 "Clean Code • Creative Design • Smart Solutions"
+**💬 Contact**
 
-⭐ Thanks for visiting my profile!
+[Email](mailto:ali.hassan.dev@gmail.com)  
+[LinkedIn](https://linkedin.com/in/ali-hassan-dev)  
+[Twitter](https://twitter.com/alihassandev)  
+[Portfolio](https://alihassan.dev)
 
-</div>
+**💻 Coding**
+
+[GitHub](https://github.com/ali-hassan-dev)  
+[LeetCode](https://leetcode.com/alihassandev)  
+[HackerRank](https://hackerrank.com/alihassandev)
+
+**🎨 Design**
+
+[Figma](https://figma.com/@alihassandev)  
+[Dribbble](https://dribbble.com/alihassandev)  
+[Behance](https://behance.net/alihassandev)
+
+
+
+---
+
+## 💡 Fun Facts
+
+- 🎮 Love playing chess and solving puzzles
+- 🎵 Enjoy lo-fi music while coding
+- 📚 Read tech blogs and documentation for fun
+- ☕ Powered by coffee and passion for coding
+- 🌱 Learning AI and machine learning
+- 🚀 Believe in continuous learning and improvement
+
+---
+
+## 📝 Blog Posts
+
+
+
+---
+
+## ✨ Support Me
+
+Support my work:
+
+[Buy Me A Coffee](https://buymeacoffee.com/alihassandev)  
+[PayPal](https://paypal.me/alihassandev)  
+[Patreon](https://patreon.com/alihassandev)
+
+---
+
+## 📜 License
+
+This README is open source under the [MIT License](LICENSE).
+
+---
+
+Thanks for visiting! ❤️
+
+---
+
+📈 Detailed Statistics
+
+### Most Used Languages
+
+  Most Used Languages
+
+### Contribution Graph
+
+  Contribution Graph
+
+### Wakatime Stats
+
+  Wakatime Stats
+
+
+
+---
+
+Made with ❤️ and by Ali Hassan
