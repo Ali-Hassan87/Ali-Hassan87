@@ -116,7 +116,7 @@
 ## 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Ali-Hassan87&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15&row=1" width="95%" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,kotlin,js,react,nodejs,mongodb,firebase,git,github,figma,vscode,html,css" />
 </p>
 
 </div>
@@ -214,9 +214,11 @@
 ## 🐍 Contribution Snake
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg">
+
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/output/github-contribution-grid-snake.svg">
+
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan87">
 </picture>
 
 </div>
@@ -230,7 +232,13 @@
 
 <br />
 
-<img src="https://komarev.com/ghpvc/?username=Ali-Hassan87&color=00D4FF&style=for-the-badge&label=PROFILE+VIEWS" />
+<div align="center">
+
+### 👀 Profile Views
+
+<img src="https://komarev.com/ghpvc/?username=Ali-Hassan87&label=Profile%20Views&color=0D1117&style=for-the-badge" />
+
+</div>
 
 </div>
 
