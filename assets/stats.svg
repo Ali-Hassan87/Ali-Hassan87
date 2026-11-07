@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+<rect width="1000" height="240" rx="18" fill="#0D0F0C" stroke="#34382D"/>
+<text x="34" y="42" fill="#D9FF70" font-family="monospace" font-size="14" letter-spacing="3">GITHUB / AT A GLANCE</text>
+<text x="34" y="68" fill="#A4A99A" font-family="Arial" font-size="13">Public repository data · refreshed automatically</text>
+<text x="40" y="150" fill="#F3F1E8" font-family="Arial" font-size="48" font-weight="700">24</text>
+<text x="40" y="183" fill="#D9FF70" font-family="monospace" font-size="12" letter-spacing="1.5">PUBLIC REPOS</text>
+<text x="280" y="150" fill="#F3F1E8" font-family="Arial" font-size="48" font-weight="700">0</text>
+<text x="280" y="183" fill="#D9FF70" font-family="monospace" font-size="12" letter-spacing="1.5">STARS EARNED</text>
+<text x="520" y="150" fill="#F3F1E8" font-family="Arial" font-size="48" font-weight="700">0</text>
+<text x="520" y="183" fill="#D9FF70" font-family="monospace" font-size="12" letter-spacing="1.5">FORKS</text>
+<text x="760" y="150" fill="#F3F1E8" font-family="Arial" font-size="48" font-weight="700">8</text>
+<text x="760" y="183" fill="#D9FF70" font-family="monospace" font-size="12" letter-spacing="1.5">LANGUAGES</text>
+</svg>

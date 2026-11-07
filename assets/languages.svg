@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="240" viewBox="0 0 1000 240">
+<rect width="1000" height="240" rx="18" fill="#0D0F0C" stroke="#34382D"/>
+<text x="34" y="42" fill="#D9FF70" font-family="monospace" font-size="14" letter-spacing="3">THE CODE / LANGUAGE MIX</text>
+<text x="34" y="68" fill="#A4A99A" font-family="Arial" font-size="13">Based on byte counts across public, non-fork repositories</text>
+<rect x="35.0" y="112" width="500.4" height="18" rx="5" fill="#D9FF70"/>
+<rect x="535.4" y="112" width="262.0" height="18" rx="5" fill="#B9A0FF"/>
+<rect x="797.5" y="112" width="104.7" height="18" rx="5" fill="#F5A66B"/>
+<rect x="902.2" y="112" width="39.5" height="18" rx="5" fill="#78C9C1"/>
+<rect x="941.7" y="112" width="13.1" height="18" rx="5" fill="#E78CA8"/>
+<rect x="954.8" y="112" width="6.7" height="18" rx="5" fill="#8BA9F4"/>
+<circle cx="43" cy="177" r="5" fill="#D9FF70"/>
+<text x="55" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">JavaScript</text>
+<text x="55" y="205" fill="#A4A99A" font-family="monospace" font-size="12">53.8%</text>
+<circle cx="198" cy="177" r="5" fill="#B9A0FF"/>
+<text x="210" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">TypeScript</text>
+<text x="210" y="205" fill="#A4A99A" font-family="monospace" font-size="12">28.2%</text>
+<circle cx="353" cy="177" r="5" fill="#F5A66B"/>
+<text x="365" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">CSS</text>
+<text x="365" y="205" fill="#A4A99A" font-family="monospace" font-size="12">11.3%</text>
+<circle cx="508" cy="177" r="5" fill="#78C9C1"/>
+<text x="520" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">HTML</text>
+<text x="520" y="205" fill="#A4A99A" font-family="monospace" font-size="12">4.2%</text>
+<circle cx="663" cy="177" r="5" fill="#E78CA8"/>
+<text x="675" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">Kotlin</text>
+<text x="675" y="205" fill="#A4A99A" font-family="monospace" font-size="12">1.4%</text>
+<circle cx="818" cy="177" r="5" fill="#8BA9F4"/>
+<text x="830" y="182" fill="#F3F1E8" font-family="Arial" font-size="14">C++</text>
+<text x="830" y="205" fill="#A4A99A" font-family="monospace" font-size="12">0.7%</text>
+</svg>
