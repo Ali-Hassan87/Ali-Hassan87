@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="250" viewBox="0 0 1100 250">
+<defs><linearGradient id="f" x2="1"><stop stop-color="#171A12"/><stop offset="1" stop-color="#0A0B09"/></linearGradient><pattern id="g" width="30" height="30" patternUnits="userSpaceOnUse"><path d="M30 0H0V30" fill="none" stroke="#D9FF70" stroke-opacity=".09"/></pattern></defs>
+<rect width="1100" height="250" rx="18" fill="url(#f)"/><rect width="1100" height="250" rx="18" fill="url(#g)"/>
+<text x="55" y="55" fill="#D9FF70" font-family="monospace" font-size="13" letter-spacing="4">HAVE SOMETHING AMBITIOUS IN MIND?</text>
+<text x="52" y="135" fill="#F4F1E8" font-family="Arial" font-weight="bold" font-size="58">LET'S BUILD IT.</text>
+<text x="56" y="183" fill="#A9AD9F" font-family="monospace" font-size="15">GOOD IDEAS DESERVE EXCEPTIONAL EXECUTION.</text>
+<path d="M850 65L1010 65L1010 190L850 190Z" fill="none" stroke="#D9FF70" stroke-opacity=".7" stroke-width="2"/>
+<path d="M875 155L985 95M945 95H985V135" fill="none" stroke="#D9FF70" stroke-width="5" stroke-linecap="round" stroke-linejoin="round"/>
+</svg>

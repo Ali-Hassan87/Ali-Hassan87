@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440">
+<defs>
+ <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#11130F"/><stop offset=".55" stop-color="#191D16"/><stop offset="1" stop-color="#080908"/></linearGradient>
+ <linearGradient id="lime"><stop stop-color="#D9FF70"/><stop offset="1" stop-color="#A9D94B"/></linearGradient>
+ <pattern id="grid" width="36" height="36" patternUnits="userSpaceOnUse"><path d="M36 0H0V36" fill="none" stroke="#D9FF70" stroke-opacity=".08" stroke-width="1"/></pattern>
+ <filter id="glow"><feGaussianBlur stdDeviation="15"/></filter>
+</defs>
+<rect width="1200" height="440" rx="22" fill="url(#bg)"/>
+<rect width="1200" height="440" rx="22" fill="url(#grid)"/>
+<circle cx="1010" cy="165" r="145" fill="#D9FF70" opacity=".12" filter="url(#glow)"/>
+<circle cx="1010" cy="165" r="116" fill="none" stroke="#D9FF70" stroke-opacity=".55" stroke-width="1.5"/>
+<circle cx="1010" cy="165" r="84" fill="none" stroke="#D9FF70" stroke-opacity=".25" stroke-dasharray="4 9">
+ <animateTransform attributeName="transform" type="rotate" from="0 1010 165" to="360 1010 165" dur="35s" repeatCount="indefinite"/>
+</circle>
+<path d="M1010 35 L1030 145 L1140 165 L1030 185 L1010 295 L990 185 L880 165 L990 145Z" fill="#D9FF70" opacity=".92">
+ <animateTransform attributeName="transform" type="rotate" from="0 1010 165" to="360 1010 165" dur="45s" repeatCount="indefinite"/>
+</path>
+<text x="72" y="72" fill="#D9FF70" font-family="monospace" font-size="14" letter-spacing="5">INDEPENDENT MIND. INTENTIONAL WORK.</text>
+<text x="66" y="205" fill="#F4F1E8" font-family="Arial,Helvetica,sans-serif" font-size="102" font-weight="800" letter-spacing="-6">ALI HASSAN</text>
+<rect x="73" y="237" width="72" height="5" rx="2.5" fill="#D9FF70"/>
+<text x="73" y="292" fill="#F4F1E8" font-family="Arial,Helvetica,sans-serif" font-size="25" letter-spacing="1">CREATIVE DEVELOPER  /  CO-FOUNDER</text>
+<text x="73" y="337" fill="#A9AD9F" font-family="monospace" font-size="15" letter-spacing="2">DESIGN × ENGINEERING × PRODUCT</text>
+<text x="1125" y="390" text-anchor="end" fill="#D9FF70" font-family="monospace" font-size="13">PAKISTAN · 2026</text>
+<path d="M73 382H450" stroke="#D9FF70" stroke-opacity=".35"/>
+</svg>

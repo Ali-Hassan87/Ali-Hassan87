@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="620" height="260" viewBox="0 0 620 260">
+<defs><linearGradient id="b" x2="1" y2="1"><stop stop-color="#20221C"/><stop offset="1" stop-color="#0B0C0A"/></linearGradient><pattern id="g" width="28" height="28" patternUnits="userSpaceOnUse"><path d="M28 0H0V28" stroke="#E8B77D" stroke-opacity=".10" fill="none"/></pattern></defs>
+<rect width="620" height="260" rx="14" fill="url(#b)"/><rect width="620" height="260" rx="14" fill="url(#g)"/>
+<circle cx="505" cy="130" r="88" fill="none" stroke="#E8B77D" stroke-opacity=".5" stroke-width="2"/>
+<circle cx="505" cy="130" r="60" fill="none" stroke="#E8B77D" stroke-opacity=".3" stroke-dasharray="5 8"><animateTransform attributeName="transform" type="rotate" from="0 505 130" to="360 505 130" dur="32s" repeatCount="indefinite"/></circle>
+<path d="M505 55L520 115L580 130L520 145L505 205L490 145L430 130L490 115Z" fill="#E8B77D"/>
+<text x="35" y="48" fill="#E8B77D" font-family="monospace" font-size="13" letter-spacing="3">03 / BRAND COMMERCE</text>
+<text x="35" y="135" fill="#F4F1E8" font-family="Arial,Helvetica,sans-serif" font-size="39" font-weight="bold">MORROW BAKERS</text>
+<text x="35" y="177" fill="#A9AD9F" font-family="Arial,Helvetica,sans-serif" font-size="16">Warm identity. Thoughtful commerce.</text>
+<path d="M35 215H240" stroke="#E8B77D" stroke-width="2"/>
+</svg>
