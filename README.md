@@ -1,283 +1,109 @@
- <div align="center">
+<div align="center">
+
+<img src="./assets/hero.svg" alt="Ali Hassan — Full-Stack Developer, Co-Founder at SilverLoft" width="100%" />
 
 <a href="https://silverloft.me">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=260&text=ALI%20HASSAN&fontSize=76&fontColor=00D4FF&fontAlignY=38&desc=FULL-STACK%20DEVELOPER%20%7C%20CO-FOUNDER%20%40%20SILVERLOFT&descAlignY=60&descSize=17&color=0:080B16,45:171C36,100:24243E&animation=fadeIn&section=header" width="100%" alt="Ali Hassan — Developer Profile" />
-</a>
-
-<a href="https://readme-typing-svg.demolab.com">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=3000&pause=900&color=00D4FF&center=true&vCenter=true&width=750&lines=I+BUILD+DIGITAL+EXPERIENCES.;I+TURN+IDEAS+INTO+PRODUCTS.;I+CARE+ABOUT+EVERY+PIXEL.;BUILDING+THE+FUTURE+WITH+SILVERLOFT." alt="Animated developer introduction" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=2600&pause=1000&color=E8DCC8&center=true&vCenter=true&width=820&height=40&lines=Building+premium+web+experiences+at+SilverLoft;React+%C2%B7+Next.js+%C2%B7+Node+%C2%B7+Firebase+%C2%B7+MongoDB;Game+systems+in+C%2B%2B+%26+Unreal+Engine+5;Turning+%22just+another+site%22+into+%22wow%22" alt="Typing animation" />
 </a>
 
 <br/>
 
-<a href="https://silverloft.me">
-  <img src="https://img.shields.io/badge/CO--FOUNDER-SILVERLOFT-00D4FF?style=for-the-badge&labelColor=0B1020" alt="SilverLoft Co-Founder"/>
-</a>
-<img src="https://img.shields.io/badge/FOCUS-FULL--STACK-8B7CFF?style=for-the-badge&labelColor=0B1020" alt="Full Stack Developer"/>
-<img src="https://img.shields.io/badge/LOCATION-PAKISTAN-2EA043?style=for-the-badge&labelColor=0B1020" alt="Pakistan"/>
+<a href="https://silverloft.me"><img src="https://img.shields.io/badge/SilverLoft-Co--Founder-D4213D?style=for-the-badge&labelColor=0B0B0E" alt="SilverLoft" /></a>
+<img src="https://img.shields.io/badge/Status-Open_to_Collaborate-E8DCC8?style=for-the-badge&labelColor=0B0B0E" alt="Open to collaborate" />
+<img src="https://img.shields.io/badge/Based_in-Pakistan-8F1429?style=for-the-badge&labelColor=0B0B0E" alt="Based in Pakistan" />
 
 <br/><br/>
 
-<a href="https://github.com/Ali-Hassan87">
-  <img src="https://komarev.com/ghpvc/?username=Ali-Hassan87&style=flat-square&color=00D4FF&label=PROFILE+VISITORS" alt="Profile views"/>
-</a>
-&nbsp;
-<a href="https://github.com/Ali-Hassan87?tab=followers">
-  <img src="https://img.shields.io/github/followers/Ali-Hassan87?style=flat-square&color=8B7CFF&labelColor=0B1020&label=FOLLOWERS" alt="GitHub followers"/>
-</a>
+<img src="./assets/terminal.svg" alt="About Ali — terminal card" width="86%" />
 
 </div>
 
----
+<br/>
 
-<div align="center">
+<div align="center"><img src="./assets/h-work.svg" alt="Selected work" width="92%" /></div>
 
-### THE DEVELOPER BEHIND THE EXPERIENCE
-
-*Not just writing code. Building things worth experiencing.*
-
-</div>
-
-<table>
+<table align="center" width="100%">
 <tr>
-<td width="62%" valign="top">
-
-### 👨‍💻 About Me
-
-Hey! I'm **Ali Hassan**, a developer, UI/UX enthusiast, and Co-Founder of **SilverLoft**.
-
-I enjoy transforming ideas into polished digital products — from thoughtful interfaces and interactive experiences to functional web applications.
-
-My strongest focus is frontend engineering, but I enjoy working across the full development process.
-
-- 🚀 Co-founding and building **SilverLoft**.
-- 🎨 Crafting modern interfaces and premium user experiences.
-- ⚛️ Developing with React and Next.js.
-- 🧩 Exploring backend architecture and database systems.
-- 💻 Strengthening C++, OOP and Data Structures.
-- ✨ Always experimenting, learning and building.
-
-**My philosophy:**
-
-> Premium isn't decoration. It's every detail working together.
-
-</td>
-<td width="38%" align="center" valign="middle">
-
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Developer coding animation"/>
-
-<br/><br/>
-
-**DESIGN. DEVELOP. DELIVER.**
-
-<sub>Building with curiosity and purpose.</sub>
-
-</td>
+<td width="50%"><a href="https://silverloft.me"><img src="./assets/p-silverloft.svg" alt="SilverLoft Studio" /></a></td>
+<td width="50%"><a href="https://github.com/Ali-Hassan87?tab=repositories"><img src="./assets/p-loombloom.svg" alt="LoomBloom" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Ali-Hassan87?tab=repositories"><img src="./assets/p-slantyfix.svg" alt="Slantyfix" /></a></td>
+<td width="50%"><a href="https://github.com/Ali-Hassan87?tab=repositories"><img src="./assets/p-phantom.svg" alt="Project Phantom" /></a></td>
+</tr>
+<tr>
+<td width="50%"><a href="https://github.com/Ali-Hassan87?tab=repositories"><img src="./assets/p-android.svg" alt="Native Android Movie App" /></a></td>
+<td width="50%"><a href="https://github.com/Ali-Hassan87?tab=repositories"><img src="./assets/p-labs.svg" alt="Fundamentals Lab" /></a></td>
 </tr>
 </table>
 
----
+<div align="center"><img src="./assets/h-stack.svg" alt="Toolkit" width="92%" /></div>
 
 <div align="center">
 
-## ⚡ TECHNOLOGY ECOSYSTEM
+<sub><b>LANGUAGES</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=cpp,js,ts,java,kotlin,html,css&theme=dark" alt="Languages" />
 
-*The tools I use to bring ideas to life.*
+<sub><b>FRONTEND</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,framer&theme=dark" alt="Frontend" />
+
+<sub><b>BACKEND &amp; DATA</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres&theme=dark" alt="Backend and data" />
+
+<sub><b>GAME, MOBILE &amp; TOOLS</b></sub><br/>
+<img src="https://skillicons.dev/icons?i=unreal,androidstudio,git,github,vercel,figma,docker,vscode&theme=dark" alt="Tools" />
 
 </div>
-
-<div align="center">
-
-**01 — PROGRAMMING LANGUAGES**
-
-<img src="https://skillicons.dev/icons?i=cpp,js,ts,java,kotlin&theme=dark" alt="Programming languages"/>
-
-<br/><br/>
-
-**02 — FRONTEND ENGINEERING**
-
-<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,vite,tailwind,figma&theme=dark" alt="Frontend technologies"/>
-
-<br/><br/>
-
-**03 — BACKEND & DATABASES**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,firebase,mongodb,postgres&theme=dark" alt="Backend technologies"/>
-
-<br/><br/>
-
-**04 — TOOLS & WORKFLOW**
-
-<img src="https://skillicons.dev/icons?i=git,github,vercel,docker,vscode,linux&theme=dark" alt="Development tools"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🚀 SELECTED PROJECTS
-
-*Ideas turned into real digital experiences.*
-
-</div>
-
-<table width="100%">
-<tr>
-<td width="50%" valign="top">
-
-### 🧵 LoomBloom
-
-**E-Commerce Experience**
-
-A modern e-commerce storefront featuring product discovery, shopping cart functionality and Firebase-backed data.
-
-**Stack:** React · Vite · Firebase
-
-<a href="https://loombloom.vercel.app/">
-  <img src="https://img.shields.io/badge/EXPLORE_PROJECT-00D4FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Explore LoomBloom"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🏢 SilverLoft
-
-**Company & Digital Identity**
-
-Building the digital home of the software company I co-founded, with a focus on refined visuals, interactive experiences and premium presentation.
-
-**Stack:** Next.js · React · Tailwind CSS · Framer Motion
-
-<a href="https://silverloft.me">
-  <img src="https://img.shields.io/badge/VISIT_SILVERLOFT-8B7CFF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visit SilverLoft"/>
-</a>
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍞 Morrow Bakers
-
-**E-Commerce & Brand Experience**
-
-A bakery-focused digital storefront combining product presentation, warm visual identity and interactive UI.
-
-**Stack:** Next.js · React · Tailwind CSS
-
-<a href="https://bakemarkey.vercel.app/">
-  <img src="https://img.shields.io/badge/VIEW_LIVE_PROJECT-C89A4B?style=for-the-badge&logo=vercel&logoColor=white" alt="View Morrow Bakers"/>
-</a>
-
-</td>
-<td width="50%" valign="top">
-
-### 🎬 Slantyfix
-
-**Movie Discovery Platform**
-
-A movie-focused digital experience with cinematic presentation, content discovery and API-driven functionality.
-
-**Focus:** Frontend · UI/UX · API Integration
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 💻 Student Record Management
-
-**C++ · OOP · File Handling**
-
-A CRUD-based record management system featuring structures, searching, sorting and binary file persistence.
-
-</td>
-<td width="50%" valign="top">
-
-### 🍃 MongoDB Practice Lab
-
-**Database Engineering**
-
-Hands-on database practice covering CRUD, queries, projections, pagination, schema design and aggregation pipelines.
-
-</td>
-</tr>
-</table>
-
----
-
-<div align="center">
-
-## 📊 GITHUB PERFORMANCE
-
-*Consistency, contributions and continuous improvement.*
 
 <br/>
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ali-Hassan87&show_icons=true&hide_border=true&bg_color=0B1020&title_color=00D4FF&icon_color=8B7CFF&text_color=C9D1D9&rank_icon=github" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hassan87&layout=compact&hide_border=true&bg_color=0B1020&title_color=00D4FF&text_color=C9D1D9&langs_count=8" alt="Most used languages"/>
-
-<br/><br/>
-
-<img width="75%" src="https://streak-stats.demolab.com?user=Ali-Hassan87&theme=transparent&hide_border=true&background=0B1020&stroke=303B55&ring=00D4FF&fire=FF6B6B&currStreakLabel=00D4FF&sideLabels=C9D1D9&dates=7D899D" alt="GitHub contribution streak"/>
-
-<br/><br/>
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan87&bg_color=0B1020&color=00D4FF&line=6C63FF&point=FFFFFF&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="GitHub activity graph"/>
-
-</div>
-
----
+<div align="center"><img src="./assets/h-stats.svg" alt="By the numbers" width="92%" /></div>
 
 <div align="center">
 
-## 🏆 ACHIEVEMENTS
-
-<img width="95%" src="https://github-profile-trophy.vercel.app/?username=Ali-Hassan87&theme=onestar&no-frame=true&no-bg=true&margin-w=10&column=6" alt="GitHub trophies"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🐍 CONTRIBUTION JOURNEY
-
-*Every contribution is another step forward.*
-
-<img src="https://raw.githubusercontent.com/Ali-Hassan87/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg" width="100%" alt="GitHub contribution snake"/>
-
-</div>
-
----
-
-<div align="center">
-
-## 🌐 LET'S CONNECT
-
-**Have an idea? Let's turn it into something exceptional.**
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=Ali-Hassan87&show_icons=true&hide_border=false&border_color=2A1A1D&bg_color=0B0B0E&title_color=E8DCC8&icon_color=D4213D&text_color=BFB5A5&ring_color=D4213D&rank_icon=github" alt="GitHub stats" />
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ali-Hassan87&layout=compact&hide_border=false&border_color=2A1A1D&bg_color=0B0B0E&title_color=E8DCC8&text_color=BFB5A5" alt="Top languages" />
 
 <br/>
 
-<a href="https://github.com/Ali-Hassan87">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://silverloft.me">
-  <img src="https://img.shields.io/badge/SilverLoft-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="SilverLoft"/>
-</a>
-<a href="mailto:silverloft111@gmail.com">
-  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-</a>
-
-<br/><br/>
-
-*Open to meaningful collaborations, interesting ideas and ambitious projects.*
+<img width="86%" src="https://streak-stats.demolab.com/?user=Ali-Hassan87&hide_border=false&border=2A1A1D&background=0B0B0E&stroke=2A1A1D&ring=D4213D&fire=D4213D&currStreakNum=E8DCC8&sideNums=E8DCC8&currStreakLabel=D4213D&sideLabels=BFB5A5&dates=8A8070" alt="Contribution streak" />
 
 <br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=0:24243E,50:171C36,100:080B16" width="100%" alt="Footer"/>
+<img width="94%" src="https://github-readme-activity-graph.vercel.app/graph?username=Ali-Hassan87&bg_color=0B0B0E&color=E8DCC8&line=D4213D&point=E8DCC8&area=true&area_color=D4213D&hide_border=true&hide_title=true" alt="Contribution graph" />
 
-<sub>© Ali Hassan · Crafted with curiosity, creativity & code.</sub>
+</div>
+
+<br/>
+
+<div align="center"><img src="./assets/h-snake.svg" alt="Contributions" width="92%" /></div>
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ali-Hassan87/Ali-Hassan87/output/github-contribution-grid-snake.svg">
+  <img alt="Contribution snake" src="https://raw.githubusercontent.com/Ali-Hassan87/Ali-Hassan87/output/github-contribution-grid-snake-dark.svg" width="94%" />
+</picture>
+</div>
+
+<br/>
+
+<div align="center"><img src="./assets/h-contact.svg" alt="Let's build" width="92%" /></div>
+
+<div align="center">
+
+**Have a product, a brand, or a wild idea? SilverLoft builds it properly.**
+
+<a href="https://silverloft.me"><img src="https://img.shields.io/badge/Website-silverloft.me-D4213D?style=for-the-badge&logo=googlechrome&logoColor=white&labelColor=0B0B0E" alt="Website" /></a>
+<a href="mailto:silverloft111@gmail.com"><img src="https://img.shields.io/badge/Email-Say_hello-E8DCC8?style=for-the-badge&logo=gmail&logoColor=D4213D&labelColor=0B0B0E" alt="Email" /></a>
+<!-- Add when ready:
+<a href="https://linkedin.com/in/YOUR-HANDLE"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0B0B0E" alt="LinkedIn" /></a>
+-->
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=Ali-Hassan87&label=PROFILE+VIEWS&color=D4213D&style=flat-square&labelColor=0B0B0E" alt="Profile views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B0E,60:5A0F1E,100:D4213D&height=120&section=footer" width="100%" alt="" />
 
 </div>
